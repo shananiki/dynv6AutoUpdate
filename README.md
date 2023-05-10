@@ -19,7 +19,7 @@ Open cron configuration file using:
 `crontab -e`
 
 I add the following to run the script every day at 4:30 AM.
-Replace the path with your script path.
+Replace the path with your script path.\
 30 4 * * * /usr/bin/python3 /path/to/your/python/script.py
 
 **Note:**\

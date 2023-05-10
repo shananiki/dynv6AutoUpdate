@@ -23,7 +23,8 @@ Replace the path with your script path.
 30 4 * * * /usr/bin/python3 /path/to/your/python/script.py
 
 **Note:**
-* * * * * command_to_execute
-| First * | Second * | Third * | Fourth * | Fifth * |
+\* \* \* \* \* command_to_execute
+First * | Second * | Third * | Fourth * | Fifth *
+--- | --- | --- | --- |--- 
 |-Minute-|-Hour-|-Day-|- Month -|- Day of week |
 

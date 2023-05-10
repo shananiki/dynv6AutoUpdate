@@ -14,7 +14,7 @@ sudo pip3 install requests
 You can use the install.sh script.
 
 
-## Add a scheduled task manually
+## Add a scheduled task
 Open cron configuration file using:
 `crontab -e`
 

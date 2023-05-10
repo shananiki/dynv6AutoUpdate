@@ -27,4 +27,7 @@ Replace the path with your script path.
 First * | Second * | Third * | Fourth * | Fifth *
 --- | --- | --- | --- |--- 
 | Minute | Hour | Day | Month | Day of week |
+
+
+
 Or just google the syntax.

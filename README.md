@@ -22,9 +22,9 @@ I add the following to run the script every day at 4:30 AM.
 Replace the path with your script path.
 30 4 * * * /usr/bin/python3 /path/to/your/python/script.py
 
-**Note:**
+**Note:**\
 \* \* \* \* \* command_to_execute
 First * | Second * | Third * | Fourth * | Fifth *
 --- | --- | --- | --- |--- 
-|-Minute-|-Hour-|-Day-|- Month -|- Day of week |
-
+| Minute | Hour | Day | Month | Day of week |
+Or just google the syntax.

@@ -11,7 +11,6 @@ def updateURL():
 	response = requests.get(url)
 	print(response.text)
 
-
 def getIPV6Prefix():
 	output = subprocess.check_output(["ip", "-6", "addr", "show", "eth0"])
 	ipv6 = output.split()[25].decode()
@@ -24,6 +23,4 @@ def getIPV6():
 	ipv6 = ipv6.split("/")[0]
 	return ipv6
 
-
 updateURL()
-
